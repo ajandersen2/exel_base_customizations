@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_route_permission">
+    <sys_ux_route_permission action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <groups/>
+        <roles/>
+        <route display_value="Sales Dashboard">dea32343477ddd103eacd352736d43d7</route>
+        <sys_class_name>sys_ux_route_permission</sys_class_name>
+        <sys_created_by>mark.stanger</sys_created_by>
+        <sys_created_on>2022-09-12 16:00:33</sys_created_on>
+        <sys_id>5ea32343477ddd103eacd352736d43dc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_update_name>sys_ux_route_permission_5ea32343477ddd103eacd352736d43dc</sys_update_name>
+        <sys_updated_by>mark.stanger</sys_updated_by>
+        <sys_updated_on>2022-09-12 16:30:04</sys_updated_on>
+        <type>write</type>
+        <users>ea69e0071b23001060132f452a4bcb61,953aa8071b23001060132f452a4bcb7c</users>
+    </sys_ux_route_permission>
+</record_update>

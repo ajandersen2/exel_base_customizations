@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="country" table="sales_account" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <name>sales_account</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_id>52a7b925c33999100eb17a4ce00131b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>country</sys_name>
+            <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+            <sys_update_name>sys_choice_sales_account_country</sys_update_name>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United States (US)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ea7b925c33999100eb17a4ce00131b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>US</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United Kingdom (UK)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ea7b925c33999100eb17a4ce00131b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>UK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>France (FR)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daa7b925c33999100eb17a4ce00131b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>FR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Netherlands (NL)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa7b925c33999100eb17a4ce00131b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>NL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United Arab Emirates (AE)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6a7b925c33999100eb17a4ce00131b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>AE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Argentina (AR)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56a7b925c33999100eb17a4ce00131b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>AR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Austria (AT)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2a7b925c33999100eb17a4ce00131b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>AT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Australia (AU)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52a7b925c33999100eb17a4ce00131b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>AU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Belgium (BE)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dea7b925c33999100eb17a4ce00131b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>BE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bahrain (BH)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ea7b925c33999100eb17a4ce00131b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>BH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bermuda (BM)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daa7b925c33999100eb17a4ce00131b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>BM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brazil (BR)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa7b925c33999100eb17a4ce00131ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>BR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canada (CA)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6a7b925c33999100eb17a4ce00131bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>CA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Switzerland (CH)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56a7b925c33999100eb17a4ce00131bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>CH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>China (CN)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2a7b925c33999100eb17a4ce00131bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>CN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Costa Rica (CR)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52a7b925c33999100eb17a4ce00131be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>CR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Czech Republic (CZ)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dea7b925c33999100eb17a4ce00131be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>CZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Germany (DE)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ea7b925c33999100eb17a4ce00131bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>DE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Denmark (DK)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daa7b925c33999100eb17a4ce00131c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>DK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Estonia (EE)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa7b925c33999100eb17a4ce00131c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>EE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Spain (ES)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6a7b925c33999100eb17a4ce00131c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>ES</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finland (FI)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>21</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56a7b925c33999100eb17a4ce00131c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>FI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ireland (IE)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>22</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2a7b925c33999100eb17a4ce00131c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>IE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Israel (IL)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>23</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52a7b925c33999100eb17a4ce00131c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>IL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>India (IN)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>24</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dea7b925c33999100eb17a4ce00131c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>IN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Italy (IT)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>25</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ea7b925c33999100eb17a4ce00131c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>IT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Japan (JP)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>26</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daa7b925c33999100eb17a4ce00131c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>JP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kuwait (KW)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>27</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa7b925c33999100eb17a4ce00131c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>KW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Malaysia (MA)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>28</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6a7b925c33999100eb17a4ce00131c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>MA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mexico (MX)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>29</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56a7b925c33999100eb17a4ce00131ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>MX</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Norway (NO)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2a7b925c33999100eb17a4ce00131cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>NO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Zealand (NZ)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>31</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52a7b925c33999100eb17a4ce00131cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>NZ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Philippines (PH)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>32</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dea7b925c33999100eb17a4ce00131cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>PH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Poland (PL)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>33</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ea7b925c33999100eb17a4ce00131cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>PL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portugal (PT)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>34</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daa7b925c33999100eb17a4ce00131ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>PT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Qatar (QA)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>35</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa7b925c33999100eb17a4ce00131cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>QA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Romania (RO)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>36</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6a7b925c33999100eb17a4ce00131d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>RO</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Saudi Arabia (SA)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>37</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56a7b925c33999100eb17a4ce00131d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>SA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scotland (SC)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>38</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d2a7b925c33999100eb17a4ce00131d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>SC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sudan (SD)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>39</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52a7b925c33999100eb17a4ce00131d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>SD</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sweden (SE)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dea7b925c33999100eb17a4ce00131d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>SE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Singapore (SG)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>41</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ea7b925c33999100eb17a4ce00131d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>SG</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>South Africa (ZA)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>42</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daa7b925c33999100eb17a4ce00131d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>ZA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Turkey (TR)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>43</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5aa7b925c33999100eb17a4ce00131d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>TR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Taiwan (TW)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>44</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6a7b925c33999100eb17a4ce00131d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>TW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ukraine (UA)</label>
+            <language>en</language>
+            <name>sales_account</name>
+            <sequence>45</sequence>
+            <synonyms/>
+            <sys_created_by>jacob.andersen</sys_created_by>
+            <sys_created_on>2022-09-07 16:17:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56a7b925c33999100eb17a4ce00131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jacob.andersen</sys_updated_by>
+            <sys_updated_on>2022-09-07 16:17:48</sys_updated_on>
+            <value>UA</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

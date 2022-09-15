@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Sales agent workspace">66c0bbcb477ddd103eacd352736d4353</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Dashboard">70fffc42c3b02010ec37e0dd9740dd88</macroponent>
+        <macroponent_config/>
+        <name>Sales Operations default</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Sales Operations">74013bcb477ddd103eacd352736d4312</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>mark.stanger</sys_created_by>
+        <sys_created_on>2022-09-12 16:58:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fc01ffcb477ddd103eacd352736d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sales Operations default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_update_name>sys_ux_screen_fc01ffcb477ddd103eacd352736d4353</sys_update_name>
+        <sys_updated_by>mark.stanger</sys_updated_by>
+        <sys_updated_on>2022-09-12 16:58:52</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fc01ffcb477ddd103eacd352736d4353"/>
+</record_update>

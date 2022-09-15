@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_oidc_entity">
+    <oauth_oidc_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url>https://accounts.google.com/o/oauth2/v2/auth</auth_url>
+        <automatically_import_users>false</automatically_import_users>
+        <certificate_url/>
+        <client_id>1071111418965-k8uubi41qp38fbsmoc0hcgqtk936elna.apps.googleusercontent.com</client_id>
+        <client_secret>﷞﷟﷒ecb3f5bd476111103eacd352736d43c7﷬﷔1﷬﷭DDesBHwqvHafj_d9InJKzw==wghc9XpYXO9QFWT2TMU2erBRodsLiSRAJaCAhQejv1Mf8aFH1M3qvIVc7UP7g98qP4qm﷮﷯</client_secret>
+        <client_uuid>bc574c75c3a511100eb17a4ce001311e</client_uuid>
+        <clock_skew>300</clock_skew>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <end_session_endpoint/>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <import_data_source/>
+        <login_prompt>false</login_prompt>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <name>GSuite for Exel</name>
+        <oauth_api_script/>
+        <oidc_provider_configuration display_value="GSuite for Exel">70574435c3a511100eb17a4ce001317f</oidc_provider_configuration>
+        <protocol_name/>
+        <provision_source>id_token</provision_source>
+        <public_client>false</public_client>
+        <redirect_url>https://ven05623.service-now.com/navpage.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <roles_for_imported_users/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_oidc_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 16:29:47</sys_created_on>
+        <sys_id>7c574c75c3a511100eb17a4ce001311e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GSuite for Exel</sys_name>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_update_name>oauth_oidc_entity_7c574c75c3a511100eb17a4ce001311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 16:29:47</sys_updated_on>
+        <token_url>https://oauth2.googleapis.com/token</token_url>
+        <type>oauth_provider</type>
+        <update_time_interval>3600</update_time_interval>
+        <update_user_on_login>false</update_user_on_login>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+        <user_info_data_source/>
+    </oauth_oidc_entity>
+</record_update>

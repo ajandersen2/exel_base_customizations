@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2022-09-15 03:43:11">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>mark.stanger</sys_created_by>
+        <sys_created_on>2022-09-12 16:49:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>26fe2f0b477ddd103eacd352736d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Sales Dashboard - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_update_name>sys_portal_page_26fe2f0b477ddd103eacd352736d436f</sys_update_name>
+        <sys_updated_by>mark.stanger</sys_updated_by>
+        <sys_updated_on>2022-09-12 16:49:59</sys_updated_on>
+        <title>PA Sales Dashboard - New Tab 2</title>
+        <user/>
+        <view>pa_sales_dashboard_-_new_tab_2</view>
+    </sys_portal_page>
+</record_update>

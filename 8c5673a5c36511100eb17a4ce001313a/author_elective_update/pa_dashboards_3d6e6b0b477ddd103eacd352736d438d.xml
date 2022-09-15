@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="DELETE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#ffffff</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>Sales Dashboard</name>
+        <no_tabs>false</no_tabs>
+        <order>100</order>
+        <owner display_value="Mark Stanger">ea69e0071b23001060132f452a4bcb61</owner>
+        <restrict_to_roles>sales</restrict_to_roles>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>mark.stanger</sys_created_by>
+        <sys_created_on>2022-09-12 16:48:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d6e6b0b477ddd103eacd352736d438d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sales Dashboard</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_update_name>pa_dashboards_3d6e6b0b477ddd103eacd352736d438d</sys_update_name>
+        <sys_updated_by>mark.stanger</sys_updated_by>
+        <sys_updated_on>2022-09-12 16:48:12</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</application>
+        <file_path/>
+        <instance_id>2e532d49dba599949df22f17d49619b2</instance_id>
+        <instance_name>ven05623</instance_name>
+        <name>pa_dashboards_3d6e6b0b477ddd103eacd352736d438d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards"><pa_dashboards action="INSERT_OR_UPDATE"><active>true</active><breakdown_source/><color>#ffffff</color><disable_multiple_element>false</disable_multiple_element><group/><groups/><is_breakdown>false</is_breakdown><managed_breakdown/><managed_publisher/><name>Sales Dashboard</name><no_tabs>false</no_tabs><order>100</order><owner display_value="Mark Stanger">ea69e0071b23001060132f452a4bcb61</owner><restrict_to_roles>sales</restrict_to_roles><role_override>true</role_override><roles/><should_migrate_permissions>false</should_migrate_permissions><sys_class_name>pa_dashboards</sys_class_name><sys_created_by>mark.stanger</sys_created_by><sys_created_on>2022-09-12 16:48:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3d6e6b0b477ddd103eacd352736d438d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sales Dashboard</sys_name><sys_overrides/><sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package><sys_policy/><sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope><sys_update_name>pa_dashboards_3d6e6b0b477ddd103eacd352736d438d</sys_update_name><sys_updated_by>mark.stanger</sys_updated_by><sys_updated_on>2022-09-12 16:48:12</sys_updated_on><users/><visible_to>2</visible_to></pa_dashboards></record_update>]]></payload>
+        <payload_hash>-1534730628</payload_hash>
+        <record_name>Sales Dashboard</record_name>
+        <reverted_from/>
+        <source>ee1f85e1476511103eacd352736d43e0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mark.stanger</sys_created_by>
+        <sys_created_on>2022-09-12 16:48:12</sys_created_on>
+        <sys_id>e09e6f4b477ddd103eacd352736d4365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1833299ef5a0000001</sys_recorded_at>
+        <sys_updated_by>mark.stanger</sys_updated_by>
+        <sys_updated_on>2022-09-12 16:48:12</sys_updated_on>
+        <type>Dashboard</type>
+        <update_guid>2c9e6f4bc57ddd1095829d977ce02864</update_guid>
+        <update_guid_history>2c9e6f4bc57ddd1095829d977ce02864:-1534730628</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sales Dashboard">3b261ca347f911503eacd352736d43ad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mark.stanger</sys_created_by>
+        <sys_created_on>2022-09-13 14:19:46</sys_created_on>
+        <sys_db_object display_value="" name="pa_dashboards">pa_dashboards</sys_db_object>
+        <sys_id>1efae5c2c7cf4534bad7aab2c030c024</sys_id>
+        <sys_metadata>3d6e6b0b477ddd103eacd352736d438d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sales Dashboard</sys_name>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_scope_delete display_value="">03be8cb1d58d46fc804248dcfc82ff04</sys_scope_delete>
+        <sys_update_name>pa_dashboards_3d6e6b0b477ddd103eacd352736d438d</sys_update_name>
+        <sys_update_version display_value="pa_dashboards_3d6e6b0b477ddd103eacd352736d438d">e09e6f4b477ddd103eacd352736d4365</sys_update_version>
+        <sys_updated_by>mark.stanger</sys_updated_by>
+        <sys_updated_on>2022-09-13 14:19:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>jacob.andersen</sys_created_by>
+        <sys_created_on>2022-09-13 14:51:41</sys_created_on>
+        <sys_id>696d90e3c3f9dd100eb17a4ce00131b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.sales</sys_name>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_security_acl display_value="sales_opportunity_contact_m2m">306d9ce3c3f9dd100eb17a4ce00131c2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_696d90e3c3f9dd100eb17a4ce00131b9</sys_update_name>
+        <sys_updated_by>jacob.andersen</sys_updated_by>
+        <sys_updated_on>2022-09-13 14:51:41</sys_updated_on>
+        <sys_user_role display_value="sales" name="sales">26bb26f74a3599d20167e5a06c83be2f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

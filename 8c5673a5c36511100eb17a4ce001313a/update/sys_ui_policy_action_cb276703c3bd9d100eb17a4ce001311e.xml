@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>close_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>jacob.andersen</sys_created_by>
+        <sys_created_on>2022-09-12 16:16:02</sys_created_on>
+        <sys_id>cb276703c3bd9d100eb17a4ce001311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>close_date</sys_name>
+        <sys_package display_value="Exel Configurations" source="8c5673a5c36511100eb17a4ce001313a">8c5673a5c36511100eb17a4ce001313a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Exel Configurations">8c5673a5c36511100eb17a4ce001313a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_cb276703c3bd9d100eb17a4ce001311e</sys_update_name>
+        <sys_updated_by>jacob.andersen</sys_updated_by>
+        <sys_updated_on>2022-09-12 16:16:02</sys_updated_on>
+        <table>sales_opportunity</table>
+        <ui_policy display_value="&quot;Closed date' only appear when stage is closed">bff6a303c3bd9d100eb17a4ce00131ac</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
